@@ -1,1 +1,1 @@
-See the app running at: [https://evening-oasis-81874.herokuapp.com/?quote=1](https://evening-oasis-81874.herokuapp.com/?quote=1)
+See the app running at: [https://quotely-react-rails.herokuapp.com](https://quotely-react-rails.herokuapp.com/)
